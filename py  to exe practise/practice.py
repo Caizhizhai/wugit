@@ -1,4 +1,4 @@
-#Git clone test.
+#Git test.
 
 data=[{'name':'tom','age':'18','city':'SZ'},
       {'name':'micky','age':'12','city':'SH'}]
