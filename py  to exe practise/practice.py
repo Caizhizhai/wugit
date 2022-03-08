@@ -30,6 +30,7 @@ class System:
               **************************
         """)
 
+
     def loaddata(self):
         for item in data:
             student=Student(item['name'],item['age'],item['city'])
