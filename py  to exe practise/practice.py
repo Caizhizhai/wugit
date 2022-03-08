@@ -36,6 +36,7 @@ class System:
             self.data.append(student)
 
 
+
     def run(self):
         self.loaddata()
         while True:
