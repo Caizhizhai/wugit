@@ -35,6 +35,7 @@ class System:
             student=Student(item['name'],item['age'],item['city'])
             self.data.append(student)
 
+
     def run(self):
         self.loaddata()
         while True:
